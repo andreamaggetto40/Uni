@@ -13,7 +13,7 @@ string deleteDouble(string &str){
     }
 
     return newStr;
-}*/
+}
 
 void deleteDouble(string &str){
     unsigned init = 0;
