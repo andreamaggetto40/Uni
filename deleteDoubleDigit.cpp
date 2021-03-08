@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/*string deleteDouble(string &str){
+string deleteDouble(string &str){
     string newStr = "";
     newStr += str.at(0);
 
